@@ -20,8 +20,8 @@ Sistema web - Carrito de compras . [Enlace al proyecto](https://shoppingcart-std
 Ingeniero de Software con más de 2 años de experiencia en desarrollo de aplicaciones escalables, enfocado en implementar buenas prácticas, principios sólidos y patrones de diseño. Con experiencia en metodologías ágiles (Scrum), Una de mis mayores motivaciones es aprender más y mejores cosas acerca del desarrollo de software, buscando siempre nuevas formas de aportar valor y calidad a cada proyecto.
 
 ## 🌐 Conéctate conmigo
-[![LinkedIn](www.linkedin.com/in/alejandro-tapia-a5aa12199)
-[![Portafolio](https://gentle-meadow-057b7ed0f.4.azurestaticapps.net/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Tapia-blue?logo=linkedin)](https://www.linkedin.com/in/alejandro-tapia-a5aa12199)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Alejandro%20Tapia-lightgrey?logo=internet)](https://mango-plant-0bb30020f.6.azurestaticapps.net/)
 
 
 <!--
