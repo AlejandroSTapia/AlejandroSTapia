@@ -4,7 +4,7 @@
 Ingeniero de Software con más de 2 años de experiencia en desarrollo de aplicaciones escalables, enfocado en implementar buenas prácticas, principios sólidos y patrones de diseño. Con experiencia en metodologías ágiles (Scrum), Una de mis mayores motivaciones es aprender más y mejores cosas acerca del desarrollo de software, buscando siempre nuevas formas de aportar valor y calidad a cada proyecto.
 
 ## Portafolio profesional
-[Enlace a mi portafolio]([https://mango-plant-0bb30020f.6.azurestaticapps.net/)
+[Enlace a mi portafolio](https://mango-plant-0bb30020f.6.azurestaticapps.net/)
 
 - 🖥️ Me especializo en:
       Creación de APIS en .Net y su consumo desde el lado del cliente como es React, ASP, Blazor WA y/o Server.
@@ -16,7 +16,7 @@ Ingeniero de Software con más de 2 años de experiencia en desarrollo de aplica
 
 ## 🚀 Proyectos Destacados
 ### [Proyecto 1]
-Sistema web - Carrito de compras . [Enlace al proyecto]([https://shoppingcart-stdev-gyhqaedrg9b7a7am.mexicocentral-01.azurewebsites.net/](https://carritowebadmin-dzdycaaghvfqf5ft.mexicocentral-01.azurewebsites.net/)
+Sistema web - Carrito de compras . [Enlace al proyecto](https://carritowebadmin-dzdycaaghvfqf5ft.mexicocentral-01.azurewebsites.net/)
 
 
 
